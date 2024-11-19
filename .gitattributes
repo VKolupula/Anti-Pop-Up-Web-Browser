@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Ensure consistent line endings for text files
 * text=auto
+
+# Treat certain files as binary
+*.dat binary
