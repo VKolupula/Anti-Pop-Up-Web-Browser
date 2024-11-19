@@ -1,2 +1,3 @@
 # Ignore WebView2 cache and logs
-/bin/Debug/net6.0-windows/KolupulaBrowser.exe.WebView2/
+/bin/Debug/net6.0-windows
+/KolupulaBrowser.exe.WebView2/publish-framework.zip/publish.zip/
