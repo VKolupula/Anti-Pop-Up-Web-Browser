@@ -2,6 +2,8 @@
 
 Kolupula Browser is a lightweight and efficient web browser designed to block pop-up ads, providing a seamless and enjoyable anime streaming experience. Built using .NET Windows Forms and WebView2, this browser ensures you can watch your favorite anime without interruptions.
 
+![image](https://github.com/user-attachments/assets/d6318d46-fac8-4079-9cd0-03a565041731)
+
 ## Features
 
 - **Pop-Up Blocker:** Automatically blocks unwanted pop-ups to keep your anime streaming smooth and uninterrupted.
