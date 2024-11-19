@@ -3,3 +3,4 @@
 
 # Treat certain files as binary
 *.dat binary
+*.exe binary
