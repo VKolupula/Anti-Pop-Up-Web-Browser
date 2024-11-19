@@ -1,0 +1,11 @@
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\MyWinFormsApp.exe
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\MyWinFormsApp.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\MyWinFormsApp.deps.json
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\MyWinFormsApp.runtimeconfig.json
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\MyWinFormsApp.pdb
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\runtimes\win-x86\native\WebView2Loader.dll

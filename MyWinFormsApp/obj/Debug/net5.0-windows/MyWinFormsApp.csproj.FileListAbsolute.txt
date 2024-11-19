@@ -1,0 +1,4 @@
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\obj\Debug\net5.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\obj\Debug\net5.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\obj\Debug\net5.0-windows\MyWinFormsApp.AssemblyInfo.cs
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\obj\Debug\net5.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache

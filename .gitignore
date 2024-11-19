@@ -1,0 +1,2 @@
+# Ignore WebView2 cache and logs
+/bin/Debug/net6.0-windows/KolupulaBrowser.exe.WebView2/

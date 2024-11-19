@@ -1,0 +1,11 @@
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\KolupulaBrowser.exe
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\KolupulaBrowser.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\KolupulaBrowser.deps.json
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\KolupulaBrowser.runtimeconfig.json
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\KolupulaBrowser.pdb
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\Microsoft.Web.WebView2.Core.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\vikra\myproject\windows project\MyWinFormsApp\publish\framework-dependent\runtimes\win-x86\native\WebView2Loader.dll
