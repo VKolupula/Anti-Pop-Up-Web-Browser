@@ -4,3 +4,9 @@
 # Treat certain files as binary
 *.dat binary
 *.exe binary
+
+# Ignore build directories
+/bin/
+/obj/
+/KolupulaBrowser.exe.WebView2/
+
